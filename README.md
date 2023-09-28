@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React Developer Portfolio template
 #### Live Demo https://react-portfolio-v1.netlify.app/
 #### Figma Design https://www.figma.com/community/file/1116246660507537002
@@ -53,3 +54,6 @@ export const projectDetails = [ ... ];
 // Enter your Contact Details here
 export const contactDetails = { ... };
 ```
+=======
+# SHOYEB_SAYYAD
+>>>>>>> 89f9c6aaa5aed68cf33bdaae90399a538a7bac63
