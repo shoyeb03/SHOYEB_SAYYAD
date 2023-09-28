@@ -134,7 +134,7 @@ export const projectDetails = [
     description: `"Explore my dynamic React-powered portfolio website, a showcase of my skills, projects, and personality. With cutting-edge web technologies and responsive design, it ensures a flawless experience across devices. Engage with an immersive interface to delve into my work and easily connect with me. Discover the perfect blend of functionality and aesthetics in this visually captivating online portfolio."`,
     techstack: "HTML, CSS, React",
     previewLink: "https://google.com",
-    githubLink: "https://github.com",
+    githubLink: "https://github.com/shoyeb03/SHOYEB_SAYYAD",
   },
   {
     title: "Landing Page",
